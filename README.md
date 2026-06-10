@@ -164,8 +164,7 @@ Hive Database is used for:
 
 B.Tech – Computer Science and Engineering (AI & ML)
 
-GitHub:
-https://github.com/abhinavkommu698
+GitHub: https://github.com/abhinavkommu698-commits
 
 ---
 
