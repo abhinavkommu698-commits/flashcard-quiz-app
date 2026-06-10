@@ -73,7 +73,7 @@ text lib/ ├── main.dart ├── models/ │   ├── flashcard.dart �
 
 ### Clone Repository
 
-bash git clone https://github.com/abhinavkommu698/flashcard_quiz_app.git cd flashcard_quiz_app 
+git clone https://github.com/abhinavkommu698-commits/flashcard-quiz-app.git cd flashcard-quiz-app
 
 ### Install Dependencies
 
